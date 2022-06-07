@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47jbrh4wq3jel92lx3qrpct9hclokln1fma0l5t3v5&rid=200w.webp&ct=g" width="60px"></h1> <h1>Smoking mirror!<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47jbrh4wq3jel92lx3qrpct9hclokln1fma0l5t3v5&rid=200w.webp&ct=g" width="60px"></h1>
+<h1 align="center"><img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47jbrh4wq3jel92lx3qrpct9hclokln1fma0l5t3v5&rid=200w.webp&ct=g" width="80px"></h1> <h1>Smoking mirror!<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47jbrh4wq3jel92lx3qrpct9hclokln1fma0l5t3v5&rid=200w.webp&ct=g" width="60px"></h1>
 
 <p align="center"><img src="https://scontent.fnbo13-1.fna.fbcdn.net/v/t39.30808-6/284592225_1209797673120283_4822544339394377787_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE1UWul_PnQKSF8I9JIp5VifoInNtW9BH5-gic21b0EfpG_rTprjOMz22sO0ttXY6M9pUshlYPFVm6cZlBoIPxn&_nc_ohc=7_bLxcK7fqMAX9pCZVN&_nc_zt=23&_nc_ht=scontent.fnbo13-1.fna&oh=00_AT9YuUanUH-RYxWZMoKcDn_8JtUmfMaN9g6FD-0yHBrr0A&oe=62A3D0E6"  /></p>
 <h1>:Web_Developer: &nbsp;About Me :</h1>
@@ -6,11 +6,11 @@
 <h3>I am a Junior Web  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya</h3>
 <h3>Computer Science Student</h3>
 <h3>Self taught Python Programmer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer-snave&label=Profile%20views&color=0e75b6&style=flat" alt="smokingmirror1" /> </p>
+<p align="left"> <img src="https://www.dummies.com/wp-content/uploads/471742.image0.jpg" alt="smokingmirror1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@smokingmirror14" target="blank"><img src="https://img.shields.io/twitter/follow/@smokingmirror14?logo=twitter&style=for-the-badge" alt="@smokingmirror14" /></a> </p>
 
-- ⚡ Fun fact ** I LOVE WEB!**
+- ⚡  Programming fact ** I LOVE WEB!**
 - I love systems when they are not working!
 - The more compicated the better
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@smokingmirror14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@smokingmirror14 height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel-wachira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-wachira" height="30" width="40" /></a>
-<a href="https://instagram.com/smoking-mirror14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamer-snave" height="30" width="40" /></a>
+<a href="https://instagram.com/smoking-mirror14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smoking-mirror14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
