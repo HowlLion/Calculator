@@ -1,4 +1,4 @@
-<h1 align="center">Smoking mirror!<img src="https://mograph.video/2HwFiEL" width="30px"></h1>
+<h1 align="center">Smoking mirror!<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47jbrh4wq3jel92lx3qrpct9hclokln1fma0l5t3v5&rid=200w.webp&ct=g" width="30px"></h1>
 
 <p align="center"><img src="https://scontent.fnbo13-1.fna.fbcdn.net/v/t39.30808-6/284592225_1209797673120283_4822544339394377787_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE1UWul_PnQKSF8I9JIp5VifoInNtW9BH5-gic21b0EfpG_rTprjOMz22sO0ttXY6M9pUshlYPFVm6cZlBoIPxn&_nc_ohc=7_bLxcK7fqMAX9pCZVN&_nc_zt=23&_nc_ht=scontent.fnbo13-1.fna&oh=00_AT9YuUanUH-RYxWZMoKcDn_8JtUmfMaN9g6FD-0yHBrr0A&oe=62A3D0E6"  /></p>
 <h1>:Web_Developer: &nbsp;About Me :</h1>
